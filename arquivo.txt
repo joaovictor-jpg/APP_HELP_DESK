@@ -1,4 +1,2 @@
-escola#Impressora#Imprimir boleto escolar.
-Trabalho#Hardware#Placa de mãe com defeito.
-Trabalho#Hardware#Placa de mãe com defeito.
-Erro de impressão#Impressora#Titan com, defeito.
+3#Trabalho#Software#instalação de um anti-virus na maquina 10...
+4#escola#Impressora#Imprimir boleto escolar
