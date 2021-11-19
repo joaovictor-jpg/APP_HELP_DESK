@@ -9,7 +9,7 @@
     $texto = $_SESSION['id'] . '#' . $titulo . '#' . $categoria . '#' . $descricao . PHP_EOL;
 
     //Abrir arquivo
-    $arquivo = fopen('arquivo.txt', 'a');
+    $arquivo = fopen('../../arquivo.txt', 'a');
 
     //escrever no arquivo
     fwrite($arquivo, $texto);

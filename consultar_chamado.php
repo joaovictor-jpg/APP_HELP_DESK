@@ -6,7 +6,7 @@
   $chamados = array();
 
   //Abrir o arquivo.txt
-  $arquivo = fopen('arquivo.txt', 'r');
+  $arquivo = fopen('../../app_help_desk/arquivo.txt', 'r');
 
   //percorre enquando houver registro (linhas) a serenm recuperados
   //foef -> testa pelo fim do arquivo
